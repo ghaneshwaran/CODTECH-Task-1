@@ -72,3 +72,8 @@ Predictive Analysis: Use machine learning to forecast future sales.
 Sentiment Analysis: Analyze customer reviews to assess product satisfaction.
 Recommendation Systems: Suggest products to customers based on past behavior.
 
+
+
+<img width="957" alt="internship 2" src="https://github.com/user-attachments/assets/4750bf1d-f1b2-4ab0-8106-5cc48c71851c" />
+<img width="868" alt="internship 3" src="https://github.com/user-attachments/assets/c12ce848-1ab4-4580-841f-f113e677876c" />
+<img width="951" alt="internship" src="https://github.com/user-attachments/assets/8e83b342-9c18-4e84-a324-a258604afeb5" />
